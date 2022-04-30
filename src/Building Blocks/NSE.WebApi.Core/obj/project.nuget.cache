@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hm0i2YPEt1RelxhCjRguo+IP4bHmlf8RV8yoHSLF4k8nF4oQ5RxfTaXde/CRdj0n+/OG0vN+IWn6dis3lKbzww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Building Blocks\\NSE.WebApi.Core\\NSE.WebApi.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.13\\microsoft.aspnetcore.authentication.jwtbearer.5.0.13.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.7.1\\microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.logging\\6.7.1\\microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

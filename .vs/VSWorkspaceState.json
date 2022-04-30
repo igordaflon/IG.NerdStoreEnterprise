@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\src",
+    "\\src\\Web",
+    "\\src\\Web\\NSE.WebApp.MVC"
   ],
-  "SelectedNode": "\\C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise",
+  "SelectedNode": "\\src\\Web\\NSE.WebApp.MVC\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
