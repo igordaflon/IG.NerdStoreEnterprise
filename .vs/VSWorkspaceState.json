@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Web",
-    "\\src\\Web\\NSE.WebApp.MVC"
+    "\\src\\Services",
+    "\\src\\Services\\NSE.Catalogo.API",
+    "\\src\\Services\\NSE.Catalogo.API\\Controllers"
   ],
   "SelectedNode": "\\NerdStoreEnterprise.sln",
   "PreviewInSolutionExplorer": false

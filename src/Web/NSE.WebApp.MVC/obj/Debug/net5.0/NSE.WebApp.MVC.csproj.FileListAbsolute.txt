@@ -738,3 +738,9 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\ref\NSE.WebApp.MVC.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Catalogo\Index.cshtml.g.cs
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Catalogo\ProdutoDetalhe.cshtml.g.cs
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Refit.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\RefitStubs.g.cs
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Polly.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Polly.Extensions.Http.dll

@@ -8,6 +8,16 @@
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.props": {},
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
+      },
+      "NSE.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/NSE.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NSE.Core.dll": {}
+        }
       }
     }
   },
@@ -90,11 +100,17 @@
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Shared.resources.dll",
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
       ]
+    },
+    "NSE.Core/1.0.0": {
+      "type": "project",
+      "path": "../../Building Blocks/NSE.Core/NSE.Core.csproj",
+      "msbuildProject": "../../Building Blocks/NSE.Core/NSE.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.14.0"
+      "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.14.0",
+      "NSE.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -123,7 +139,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Building Blocks\\NSE.Core\\NSE.Core.csproj": {
+              "projectPath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Building Blocks\\NSE.Core\\NSE.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
