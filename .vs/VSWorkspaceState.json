@@ -3,8 +3,8 @@
     "",
     "\\src",
     "\\src\\Services",
-    "\\src\\Services\\NSE.Catalogo.API",
-    "\\src\\Services\\NSE.Catalogo.API\\Controllers"
+    "\\src\\Services\\NSE.Catalogo.API\\Controllers",
+    "\\src\\Services\\NSE.Catalogo.API\\Models"
   ],
   "SelectedNode": "\\NerdStoreEnterprise.sln",
   "PreviewInSolutionExplorer": false

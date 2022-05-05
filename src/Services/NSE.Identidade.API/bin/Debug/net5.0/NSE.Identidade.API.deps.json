@@ -1405,7 +1405,8 @@
       },
       "NSE.WebApi.Core/1.0.0": {
         "dependencies": {
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.13"
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.13",
+          "Microsoft.EntityFrameworkCore": "5.0.13"
         },
         "runtime": {
           "NSE.WebApi.Core.dll": {}

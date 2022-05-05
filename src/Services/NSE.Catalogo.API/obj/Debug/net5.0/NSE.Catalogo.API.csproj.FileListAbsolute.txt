@@ -124,3 +124,6 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\obj\Debug\net5.0\NSE.Catalogo.API.pdb
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\obj\Debug\net5.0\NSE.Catalogo.API.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\obj\Debug\net5.0\ref\NSE.Catalogo.API.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\MediatR.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\MediatR.Contracts.dll

@@ -744,3 +744,6 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.Extensions.Http.Polly.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Polly.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Polly.Extensions.Http.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\MediatR.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\MediatR.Contracts.dll
