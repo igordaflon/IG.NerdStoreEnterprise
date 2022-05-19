@@ -328,6 +328,17 @@
           "NSE.Identidade.API.dll": {}
         }
       },
+      "FluentValidation/11.0.0": {
+        "runtime": {
+          "lib/net5.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/net5.0/FluentValidation.dll": {}
+        }
+      },
       "Humanizer.Core/2.8.26": {
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {
@@ -1405,6 +1416,7 @@
       },
       "NSE.WebApi.Core/1.0.0": {
         "dependencies": {
+          "FluentValidation": "11.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.13",
           "Microsoft.EntityFrameworkCore": "5.0.13"
         },
@@ -3078,6 +3090,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/11.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cD0VaOQfVZGxp3UFBDET5KztMe1W0QUgk7vP/e1zus0ofALqab5/B5S319+XEFvhw0KEStS3yfCDGpvQM10C6A==",
+      "path": "fluentvalidation/11.0.0",
+      "hashPath": "fluentvalidation.11.0.0.nupkg.sha512"
     },
     "Humanizer.Core/2.8.26": {
       "type": "package",
