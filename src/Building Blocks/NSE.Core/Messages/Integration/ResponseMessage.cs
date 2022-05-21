@@ -1,12 +1,12 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using FluentValidation.Results;
 
 namespace NSE.Core.Messages.Integration
 {
-    public class ReponseMessage : Message
+    public class ResponseMessage : Message
     {
         public ValidationResult ValidationResult { get; set; }
 
-        public ReponseMessage(ValidationResult validationResult)
+        public ResponseMessage(ValidationResult validationResult)
         {
             ValidationResult = validationResult;
         }
