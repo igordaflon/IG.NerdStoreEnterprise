@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H3eGXN4Yuocp/pTHS/he360FFp+bokAY3Ru1o+Fok4026u+7vOk58HMUhU7qxFMJx4fE22UP2cIY5TsVERmfBQ==",
+  "dgSpecHash": "7P4kTTKepy+YeNA/z0AR8tcBy5cZi+jbABbVGpTdLn3zD1cXLK2vIs/yXjHKXSLwvIWZt3DDWIPWtPWl4O8+Ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.codeanalysis.csharp\\3.8.0\\microsoft.codeanalysis.csharp.3.8.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.codeanalysis.razor\\5.0.12\\microsoft.codeanalysis.razor.5.0.12.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.extensions.dependencymodel\\5.0.0\\microsoft.extensions.dependencymodel.5.0.0.nupkg.sha512",

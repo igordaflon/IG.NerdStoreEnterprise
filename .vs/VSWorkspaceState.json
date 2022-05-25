@@ -6,8 +6,11 @@
     "\\src\\Services\\NSE.Cliente.API",
     "\\src\\Services\\NSE.Cliente.API\\Application",
     "\\src\\Services\\NSE.Cliente.API\\Application\\Events",
-    "\\src\\Services\\NSE.Cliente.API\\Controllers"
+    "\\src\\Services\\NSE.Cliente.API\\Controllers",
+    "\\src\\Web",
+    "\\src\\Web\\NSE.WebApp.MVC",
+    "\\src\\Web\\NSE.WebApp.MVC\\Controllers"
   ],
-  "SelectedNode": "\\NerdStoreEnterprise.sln",
+  "SelectedNode": "\\src\\Web\\NSE.WebApp.MVC\\Controllers\\IdentidadeController.cs",
   "PreviewInSolutionExplorer": false
 }
