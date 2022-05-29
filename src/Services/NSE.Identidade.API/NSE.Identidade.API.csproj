@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
@@ -8,7 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="EasyNetQ" Version="6.3.1" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.13" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="5.0.13" />
     <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="5.0.13" />
@@ -26,6 +25,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Building Blocks\NSE.Core\NSE.Core.csproj" />
+    <ProjectReference Include="..\..\Building Blocks\NSE.MessageBus\NSE.MessageBus.csproj" />
     <ProjectReference Include="..\..\Building Blocks\NSE.WebApi.Core\NSE.WebApi.Core.csproj" />
   </ItemGroup>
 

@@ -1329,7 +1329,8 @@
       "NSE.Core/1.0.0": {
         "dependencies": {
           "FluentValidation": "11.0.0",
-          "MediatR": "10.0.1"
+          "MediatR": "10.0.1",
+          "Microsoft.Extensions.Configuration.Abstractions": "5.0.0"
         },
         "runtime": {
           "NSE.Core.dll": {}

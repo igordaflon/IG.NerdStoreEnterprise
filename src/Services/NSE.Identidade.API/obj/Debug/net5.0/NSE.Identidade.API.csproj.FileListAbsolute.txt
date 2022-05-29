@@ -148,3 +148,6 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidad
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\bin\Debug\net5.0\RabbitMQ.Client.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\bin\Debug\net5.0\NSE.Core.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\bin\Debug\net5.0\NSE.Core.pdb
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\bin\Debug\net5.0\Polly.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\bin\Debug\net5.0\NSE.MessageBus.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\bin\Debug\net5.0\NSE.MessageBus.pdb

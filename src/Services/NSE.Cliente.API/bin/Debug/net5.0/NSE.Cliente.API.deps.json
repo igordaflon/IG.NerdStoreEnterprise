@@ -33,7 +33,6 @@
     ".NETCoreApp,Version=v5.0": {
       "NSE.Cliente.API/1.0.0": {
         "dependencies": {
-          "EasyNetQ": "6.3.1",
           "MediatR.Extensions.Microsoft.DependencyInjection": "10.0.1",
           "Microsoft.EntityFrameworkCore": "5.0.13",
           "Microsoft.EntityFrameworkCore.Abstractions": "5.0.13",
@@ -42,6 +41,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "5.0.13",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.14.0",
           "NSE.Core": "1.0.0",
+          "NSE.MessageBus": "1.0.0",
           "NSE.WebApi.Core": "1.0.0",
           "Swashbuckle.AspNetCore": "6.2.3",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -332,15 +332,15 @@
           "NSE.Cliente.API.dll": {}
         }
       },
-      "EasyNetQ/6.3.1": {
+      "EasyNetQ/6.4.1": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
           "RabbitMQ.Client": "6.2.1"
         },
         "runtime": {
           "lib/netstandard2.0/EasyNetQ.dll": {
-            "assemblyVersion": "6.3.1.0",
-            "fileVersion": "6.3.1.0"
+            "assemblyVersion": "6.4.1.0",
+            "fileVersion": "6.4.1.0"
           }
         },
         "compile": {
@@ -768,6 +768,17 @@
         },
         "compile": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Polly/7.2.3": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.2.3.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Polly.dll": {}
         }
       },
       "RabbitMQ.Client/6.2.1": {
@@ -1403,13 +1414,28 @@
       "NSE.Core/1.0.0": {
         "dependencies": {
           "FluentValidation": "11.0.0",
-          "MediatR": "10.0.1"
+          "MediatR": "10.0.1",
+          "Microsoft.Extensions.Configuration.Abstractions": "5.0.0"
         },
         "runtime": {
           "NSE.Core.dll": {}
         },
         "compile": {
           "NSE.Core.dll": {}
+        }
+      },
+      "NSE.MessageBus/1.0.0": {
+        "dependencies": {
+          "EasyNetQ": "6.4.1",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "NSE.Core": "1.0.0",
+          "Polly": "7.2.3"
+        },
+        "runtime": {
+          "NSE.MessageBus.dll": {}
+        },
+        "compile": {
+          "NSE.MessageBus.dll": {}
         }
       },
       "NSE.WebApi.Core/1.0.0": {
@@ -3113,12 +3139,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "EasyNetQ/6.3.1": {
+    "EasyNetQ/6.4.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-WBZxeGj5ivoCA12rnAy4hG12i8FS9mYi9o91+48fJ9Ei2+EOPsZ/6Y+C4z8Q0Rh9dgxC8rsZ2fW1qVd9yGlEUA==",
-      "path": "easynetq/6.3.1",
-      "hashPath": "easynetq.6.3.1.nupkg.sha512"
+      "sha512": "sha512-liOFoBIZIaSgEqq46PJmlvI15mW2HcT2qhR2s427/DF1eiaUFnlrNQEo00jIV+OgF+vZrLI5vWvFLa/DvLN3Ew==",
+      "path": "easynetq/6.4.1",
+      "hashPath": "easynetq.6.4.1.nupkg.sha512"
     },
     "FluentValidation/11.0.0": {
       "type": "package",
@@ -3392,6 +3418,13 @@
       "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
       "path": "newtonsoft.json/12.0.3",
       "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Polly/7.2.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DeCY0OFbNdNxsjntr1gTXHJ5pKUwYzp04Er2LLeN3g6pWhffsGuKVfMBLe1lw7x76HrPkLxKEFxBlpRxS2nDEQ==",
+      "path": "polly/7.2.3",
+      "hashPath": "polly.7.2.3.nupkg.sha512"
     },
     "RabbitMQ.Client/6.2.1": {
       "type": "package",
@@ -3877,6 +3910,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "NSE.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NSE.MessageBus/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
