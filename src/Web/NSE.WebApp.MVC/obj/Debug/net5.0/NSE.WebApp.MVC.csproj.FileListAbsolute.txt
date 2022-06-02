@@ -467,7 +467,6 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -525,7 +524,6 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\System.Data.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
-C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
@@ -747,3 +745,9 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\MediatR.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\NSE.WebApi.Core.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\bin\Debug\net5.0\NSE.WebApi.Core.pdb

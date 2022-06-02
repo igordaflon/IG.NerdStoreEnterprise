@@ -2,15 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\Building Blocks",
+    "\\src\\Building Blocks\\NSE.MessageBus",
     "\\src\\Services",
     "\\src\\Services\\NSE.Cliente.API",
-    "\\src\\Services\\NSE.Cliente.API\\Application",
-    "\\src\\Services\\NSE.Cliente.API\\Application\\Events",
     "\\src\\Services\\NSE.Cliente.API\\Controllers",
+    "\\src\\Services\\NSE.Cliente.API\\Services",
     "\\src\\Web",
     "\\src\\Web\\NSE.WebApp.MVC",
     "\\src\\Web\\NSE.WebApp.MVC\\Controllers"
   ],
-  "SelectedNode": "\\NerdStoreEnterprise.sln",
+  "SelectedNode": "\\src\\Services\\NSE.Cliente.API\\Services\\RegistroClienteIntegrationHandler.cs",
   "PreviewInSolutionExplorer": false
 }
