@@ -1,6 +1,7 @@
 ﻿using FluentValidation;
 using System;
 using System.Collections.Generic;
+using System.Text.Json.Serialization;
 
 namespace NSE.Carrinho.API.Model
 {
@@ -20,6 +21,7 @@ namespace NSE.Carrinho.API.Model
 
         public Guid CarrinhoId { get; set; }
 
+        [JsonIgnore]
         public CarrinhoCliente CarrinhoCliente { get; set; }
 
         internal void AssociarCarrinho(Guid carrinhoId)
@@ -35,6 +37,11 @@ namespace NSE.Carrinho.API.Model
         internal void AdicionarUnidades(int unidades)
         {
             Quantidade += unidades;
+        }
+
+        internal void AtualizarUnidades(int unidades)
+        {
+            Quantidade = unidades;
         }
 
         internal bool EhValido()

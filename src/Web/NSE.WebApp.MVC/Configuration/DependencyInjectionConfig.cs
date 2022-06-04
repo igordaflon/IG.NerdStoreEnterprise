@@ -6,9 +6,6 @@ using NSE.WebApi.Core.Usuario;
 using NSE.WebApp.MVC.Extensions;
 using NSE.WebApp.MVC.Services;
 using NSE.WebApp.MVC.Services.Handlers;
-using Polly;
-using Polly.Extensions.Http;
-using System;
 
 namespace NSE.WebApp.MVC.Configuration
 {
@@ -17,6 +14,8 @@ namespace NSE.WebApp.MVC.Configuration
         public static void RegisterServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddSingleton<IValidationAttributeAdapterProvider, CpfValidationAttributeAdapterProvider>();
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddScoped<IAspNetUser, AspNetUser>();
 
             services.AddTransient<HttpClientAuthorizationDelegatingHandler>();
 
@@ -25,8 +24,10 @@ namespace NSE.WebApp.MVC.Configuration
             services.AddHttpClient<ICatalogoService, CatalogoService>()
                 .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>();
 
-            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
-            services.AddScoped<IAspNetUser, AspNetUser>();
+            services.AddHttpClient<ICarrinhoService, CarrinhoService>()
+                .AddHttpMessageHandler<HttpClientAuthorizationDelegatingHandler>();
+
+
         }
     }
 }

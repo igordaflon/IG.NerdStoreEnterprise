@@ -2,16 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Building Blocks",
-    "\\src\\Building Blocks\\NSE.MessageBus",
     "\\src\\Services",
+    "\\src\\Services\\NSE.Carrinho.API",
+    "\\src\\Services\\NSE.Carrinho.API\\Controllers",
     "\\src\\Services\\NSE.Cliente.API",
-    "\\src\\Services\\NSE.Cliente.API\\Controllers",
     "\\src\\Services\\NSE.Cliente.API\\Services",
     "\\src\\Web",
     "\\src\\Web\\NSE.WebApp.MVC",
     "\\src\\Web\\NSE.WebApp.MVC\\Controllers"
   ],
-  "SelectedNode": "\\src\\Services\\NSE.Cliente.API\\Services\\RegistroClienteIntegrationHandler.cs",
+  "SelectedNode": "\\src\\Services\\NSE.Carrinho.API\\Controllers\\CarrinhoController.cs",
   "PreviewInSolutionExplorer": false
 }
