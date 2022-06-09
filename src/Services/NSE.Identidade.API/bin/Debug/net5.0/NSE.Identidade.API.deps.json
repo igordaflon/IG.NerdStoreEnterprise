@@ -1526,7 +1526,8 @@
         "dependencies": {
           "FluentValidation": "11.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.13",
-          "Microsoft.EntityFrameworkCore": "5.0.13"
+          "Microsoft.EntityFrameworkCore": "5.0.13",
+          "NSE.Core": "1.0.0"
         },
         "runtime": {
           "NSE.WebApi.Core.dll": {}

@@ -2,13 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Services\\NSE.Carrinho.API",
-    "\\src\\Services\\NSE.Carrinho.API\\Controllers",
-    "\\src\\Services\\NSE.Cliente.API",
-    "\\src\\Services\\NSE.Cliente.API\\Services",
+    "\\src\\Api Gateways",
+    "\\src\\Api Gateways\\NSE.Bff.Compras",
+    "\\src\\Api Gateways\\NSE.Bff.Compras\\Configuration",
+    "\\src\\Web",
     "\\src\\Web\\NSE.WebApp.MVC",
-    "\\src\\Web\\NSE.WebApp.MVC\\Controllers"
+    "\\src\\Web\\NSE.WebApp.MVC\\Configuration"
   ],
-  "SelectedNode": "\\NerdStoreEnterprise.sln",
+  "SelectedNode": "\\src\\Web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
   "PreviewInSolutionExplorer": false
 }

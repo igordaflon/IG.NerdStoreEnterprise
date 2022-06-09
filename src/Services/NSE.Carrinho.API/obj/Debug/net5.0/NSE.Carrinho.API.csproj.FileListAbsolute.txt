@@ -83,3 +83,7 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\obj\Debug\net5.0\NSE.Carrinho.API.pdb
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\obj\Debug\net5.0\NSE.Carrinho.API.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\obj\Debug\net5.0\ref\NSE.Carrinho.API.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\MediatR.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\MediatR.Contracts.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\NSE.Core.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\NSE.Core.pdb

@@ -10,3 +10,6 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Building Blocks\NSE.We
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Building Blocks\NSE.WebApi.Core\obj\Debug\net5.0\refint\NSE.WebApi.Core.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Building Blocks\NSE.WebApi.Core\obj\Debug\net5.0\NSE.WebApi.Core.pdb
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Building Blocks\NSE.WebApi.Core\obj\Debug\net5.0\ref\NSE.WebApi.Core.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Building Blocks\NSE.WebApi.Core\bin\Debug\net5.0\NSE.Core.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Building Blocks\NSE.WebApi.Core\bin\Debug\net5.0\NSE.Core.pdb
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Building Blocks\NSE.WebApi.Core\obj\Debug\net5.0\NSE.WebApi.Core.csproj.CopyComplete
