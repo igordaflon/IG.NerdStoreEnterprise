@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2qJ4H3UqiSOpkCdPWedDgpsZON1zTBalgROZAe5RmcXKgLv5NibOrfRuOyIONJT+ZAGZFKOAfQduwvT9ge5NFg==",
+  "dgSpecHash": "/VJkjyFmDxIqt2kOmlbYhVTwRdGFbQagcSH/SV4CV0ontVOpClXsK0F1tFJ3t6G+F/rkgiZ4gk6RlwrRzAoifg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Web\\NSE.WebApp.MVC\\NSE.WebApp.MVC.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\netdevpack\\6.0.1\\netdevpack.6.0.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\polly\\7.1.0\\polly.7.1.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\polly.extensions.http\\3.0.0\\polly.extensions.http.3.0.0.nupkg.sha512",

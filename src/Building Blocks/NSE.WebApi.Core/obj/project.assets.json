@@ -261,6 +261,19 @@
           "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll": {}
         }
       },
+      "NetDevPack/6.0.1": {
+        "type": "package",
+        "dependencies": {
+          "FluentValidation": "10.4.0",
+          "mediatr": "10.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.1/NetDevPack.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/NetDevPack.dll": {}
+        }
+      },
       "System.Collections.Immutable/5.0.0": {
         "type": "package",
         "compile": {
@@ -322,7 +335,8 @@
         "dependencies": {
           "FluentValidation": "11.0.0",
           "MediatR": "10.0.1",
-          "Microsoft.Extensions.Configuration.Abstractions": "5.0.0"
+          "Microsoft.Extensions.Configuration.Abstractions": "5.0.0",
+          "NetDevPack": "6.0.1"
         },
         "compile": {
           "bin/placeholder/NSE.Core.dll": {}
@@ -783,6 +797,19 @@
         "lib/netstandard2.0/Microsoft.IdentityModel.Tokens.xml",
         "microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
         "microsoft.identitymodel.tokens.nuspec"
+      ]
+    },
+    "NetDevPack/6.0.1": {
+      "sha512": "TsLHflphzXEpOZcQ6H4ied9k9pUIw8WN7DqbfQRhQHlxKMc7MSYLMTBi6PwjRvUGtCxpoXxW1lnQz/ZwEygC5w==",
+      "type": "package",
+      "path": "netdevpack/6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "IconNuget.png",
+        "lib/netstandard2.1/NetDevPack.dll",
+        "netdevpack.6.0.1.nupkg.sha512",
+        "netdevpack.nuspec"
       ]
     },
     "System.Collections.Immutable/5.0.0": {

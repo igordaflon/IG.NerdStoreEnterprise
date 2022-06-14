@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "frDzyiIeR2PuJXt7+ASqBr0Y/SMKZR4HOncWL3NjfPkyEaENZvt7Z33wrW4eGzgNpHaA6ovDV5crzeIM3iPEFg==",
+  "dgSpecHash": "xZY8rY5yQzMQskTT9i4ZhO9/wbHKzUy5Js2QvuFzCa8IWvwwWdVOmfMlBrhdxBtmN4sotnSvlZDi1H5t0vWUNg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
   "expectedPackageFiles": [
@@ -50,6 +50,7 @@
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\netdevpack\\6.0.1\\netdevpack.6.0.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",

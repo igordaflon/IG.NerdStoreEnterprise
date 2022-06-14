@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pwu07tDXR+R13htE7NfvAJP2OVvxqNq8Ez18TLQoksuPJKPq2tCbSt0dUHBmZMH13cpnmErMqHSpp/3r1MAJVA==",
+  "dgSpecHash": "2lv2picsHRRWD7gdhAgaq//pkwxgXkITUoNmO4C1FcDrFMtdENy/o53+oKCOIfvEVALq5k3tcG5QYZjqJ6vZkQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,7 @@
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\netdevpack\\6.0.1\\netdevpack.6.0.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\swashbuckle.aspnetcore\\5.3.3\\swashbuckle.aspnetcore.5.3.3.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.3.3\\swashbuckle.aspnetcore.swagger.5.3.3.nupkg.sha512",

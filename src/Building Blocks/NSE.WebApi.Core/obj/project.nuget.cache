@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rimzkRA5o9/RE14N78SIU1Np6FnkWAYDMpEbxs1vQTJCYLDzOiXhPa0SFId+apU8gbNMdR3tYG6qhxXUxBdkOQ==",
+  "dgSpecHash": "vFeBFwsh/umPBOO0KpDN0TAtEaJEKs0A0znBZBi50YWi8XQmHJZxj2ANMSjRLHl6pxfCBExG8CJE/H6fDlE2cg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Building Blocks\\NSE.WebApi.Core\\NSE.WebApi.Core.csproj",
   "expectedPackageFiles": [
@@ -26,6 +26,7 @@
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.7.1\\microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.7.1\\microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.7.1\\microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\netdevpack\\6.0.1\\netdevpack.6.0.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",

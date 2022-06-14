@@ -2,13 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Api Gateways",
-    "\\src\\Api Gateways\\NSE.Bff.Compras",
-    "\\src\\Api Gateways\\NSE.Bff.Compras\\Configuration",
-    "\\src\\Web",
-    "\\src\\Web\\NSE.WebApp.MVC",
-    "\\src\\Web\\NSE.WebApp.MVC\\Configuration"
+    "\\src\\Services",
+    "\\src\\Services\\NSE.Pedidos.API"
   ],
-  "SelectedNode": "\\src\\Web\\NSE.WebApp.MVC\\Configuration\\DependencyInjectionConfig.cs",
+  "SelectedNode": "\\src\\Services\\NSE.Pedidos.API\\Startup.cs",
   "PreviewInSolutionExplorer": false
 }

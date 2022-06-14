@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3o4HSvdviqMa6ZAUaiU5YQNATO96Y81nQIIV4JWa6HzajYHq2yr8mvA4EyqR/YLhwAi+CdK8jKSi8LT01GoPKg==",
+  "dgSpecHash": "b8MrCNnKpCIlQTEP+web2Tn+IQawEkY6WtJTRfjalF868L5vqGIkDtDowWhbYIAZRiFwdr5OnTs5Oy/9a3zl8A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Igor\\Documents\\GitHub\\IG.NerdStoreEnterprise\\src\\Building Blocks\\NSE.Core\\NSE.Core.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,8 @@
     "C:\\Users\\Igor\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\Igor\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+    "C:\\Users\\Igor\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\Igor\\.nuget\\packages\\netdevpack\\6.0.1\\netdevpack.6.0.1.nupkg.sha512"
   ],
   "logs": []
 }

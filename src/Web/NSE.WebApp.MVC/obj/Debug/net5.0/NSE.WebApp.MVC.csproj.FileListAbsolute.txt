@@ -736,6 +736,7 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Identidade\Login.cshtml.g.cs
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Identidade\Registro.cshtml.g.cs
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -752,4 +753,3 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebApp.MVC.pdb
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\NSE.WebApp.MVC.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\ref\NSE.WebApp.MVC.dll
-C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Web\NSE.WebApp.MVC\obj\Debug\net5.0\Razor\Views\Shared\Components\Carrinho\Default.cshtml.g.cs
