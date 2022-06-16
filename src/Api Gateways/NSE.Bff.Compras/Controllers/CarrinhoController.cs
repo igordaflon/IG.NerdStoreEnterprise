@@ -14,15 +14,18 @@ namespace NSE.Bff.Compras.Controllers
     {
         private readonly ICarrinhoService _carrinhoService;
         private readonly ICatalogoService _catalogoService;
+        private readonly IPedidoService _pedidoService;
 
         public CarrinhoController
         (
             ICarrinhoService _carrinhoService,
-            ICatalogoService _catalogoService
+            ICatalogoService _catalogoService,
+            IPedidoService _pedidoService
         )
         {
             this._carrinhoService = _carrinhoService;
             this._catalogoService = _catalogoService;
+            this._pedidoService = _pedidoService;
         }
 
         [HttpGet]
@@ -84,6 +87,22 @@ namespace NSE.Bff.Compras.Controllers
             }
 
             var resposta = await _carrinhoService.RemoverItemCarrinho(produtoId);
+
+            return CustomResponse(resposta);
+        }
+
+        [HttpPost]
+        [Route("compras/carrinho/aplicar-voucher")]
+        public async Task<IActionResult> AplicarVoucher([FromBody] string voucherCodigo)
+        {
+            var voucher = await _pedidoService.ObterVoucherPorCodigo(voucherCodigo);
+            if(voucher is null)
+            {
+                AdicionaErroProcessamento("Voucher inválido ou não encontrado");
+                return CustomResponse();
+            }
+
+            var resposta = await _carrinhoService.AplicarVoucherCarrinho(voucher);
 
             return CustomResponse(resposta);
         }

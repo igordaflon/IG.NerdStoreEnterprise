@@ -843,6 +843,21 @@
           "Microsoft.NETCore.Platforms": "3.1.0"
         }
       },
+      "NetDevPack/6.0.1": {
+        "dependencies": {
+          "FluentValidation": "11.0.0",
+          "MediatR": "10.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/NetDevPack.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/NetDevPack.dll": {}
+        }
+      },
       "Newtonsoft.Json/12.0.3": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
@@ -1499,7 +1514,8 @@
         "dependencies": {
           "FluentValidation": "11.0.0",
           "MediatR": "10.0.1",
-          "Microsoft.Extensions.Configuration.Abstractions": "5.0.0"
+          "Microsoft.Extensions.Configuration.Abstractions": "5.0.0",
+          "NetDevPack": "6.0.1"
         },
         "runtime": {
           "NSE.Core.dll": {}
@@ -3521,6 +3537,13 @@
       "sha512": "sha512-mtVirZr++rq+XCDITMUdnETD59XoeMxSpLRIII7JRI6Yj0LEDiO1pPn0ktlnIj12Ix8bfvQqQDMMIF9wC98oCA==",
       "path": "microsoft.win32.systemevents/4.7.0",
       "hashPath": "microsoft.win32.systemevents.4.7.0.nupkg.sha512"
+    },
+    "NetDevPack/6.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TsLHflphzXEpOZcQ6H4ied9k9pUIw8WN7DqbfQRhQHlxKMc7MSYLMTBi6PwjRvUGtCxpoXxW1lnQz/ZwEygC5w==",
+      "path": "netdevpack/6.0.1",
+      "hashPath": "netdevpack.6.0.1.nupkg.sha512"
     },
     "Newtonsoft.Json/12.0.3": {
       "type": "package",

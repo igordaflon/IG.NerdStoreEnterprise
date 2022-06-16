@@ -151,3 +151,4 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidad
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\obj\Debug\net5.0\NSE.Identidade.API.pdb
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\obj\Debug\net5.0\NSE.Identidade.API.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\obj\Debug\net5.0\ref\NSE.Identidade.API.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Identidade.API\bin\Debug\net5.0\NetDevPack.dll

@@ -15,11 +15,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Application\Commands\" />
-    <Folder Include="Application\Events\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\Building Blocks\NSE.Core\NSE.Core.csproj" />
     <ProjectReference Include="..\..\Building Blocks\NSE.MessageBus\NSE.MessageBus.csproj" />
     <ProjectReference Include="..\..\Building Blocks\NSE.WebApi.Core\NSE.WebApi.Core.csproj" />

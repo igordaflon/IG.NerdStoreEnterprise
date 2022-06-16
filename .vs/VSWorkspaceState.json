@@ -3,8 +3,10 @@
     "",
     "\\src",
     "\\src\\Services",
-    "\\src\\Services\\NSE.Pedidos.API"
+    "\\src\\Services\\NSE.Pedidos.API",
+    "\\src\\Services\\NSE.Pedidos.API\\Application",
+    "\\src\\Services\\NSE.Pedidos.API\\Application\\Queries"
   ],
-  "SelectedNode": "\\src\\Services\\NSE.Pedidos.API\\Startup.cs",
+  "SelectedNode": "\\NerdStoreEnterprise.sln",
   "PreviewInSolutionExplorer": false
 }

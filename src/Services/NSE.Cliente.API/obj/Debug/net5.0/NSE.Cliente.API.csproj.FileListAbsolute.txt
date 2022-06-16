@@ -95,3 +95,4 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Cliente.A
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Cliente.API\obj\Debug\net5.0\NSE.Cliente.API.pdb
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Cliente.API\obj\Debug\net5.0\NSE.Cliente.API.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Cliente.API\obj\Debug\net5.0\ref\NSE.Cliente.API.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Cliente.API\bin\Debug\net5.0\NetDevPack.dll
