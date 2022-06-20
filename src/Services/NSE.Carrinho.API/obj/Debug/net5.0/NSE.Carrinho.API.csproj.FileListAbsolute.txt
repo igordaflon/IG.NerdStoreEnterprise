@@ -88,3 +88,9 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\obj\Debug\net5.0\NSE.Carrinho.API.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\obj\Debug\net5.0\ref\NSE.Carrinho.API.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\NetDevPack.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\EasyNetQ.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\Polly.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\NSE.MessageBus.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Carrinho.API\bin\Debug\net5.0\NSE.MessageBus.pdb
