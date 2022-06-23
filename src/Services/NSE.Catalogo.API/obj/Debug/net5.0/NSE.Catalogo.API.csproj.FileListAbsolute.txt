@@ -128,3 +128,9 @@ C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\obj\Debug\net5.0\NSE.Catalogo.API.genruntimeconfig.cache
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\obj\Debug\net5.0\ref\NSE.Catalogo.API.dll
 C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\NetDevPack.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\EasyNetQ.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\Polly.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\NSE.MessageBus.dll
+C:\Users\Igor\Documents\GitHub\IG.NerdStoreEnterprise\src\Services\NSE.Catalogo.API\bin\Debug\net5.0\NSE.MessageBus.pdb

@@ -7,6 +7,6 @@
     "\\src\\Services\\NSE.Pedidos.API\\Application",
     "\\src\\Services\\NSE.Pedidos.API\\Application\\Queries"
   ],
-  "SelectedNode": "\\NerdStoreEnterprise.sln",
+  "SelectedNode": "\\src\\Services\\NSE.Pedidos.API\\Application\\Queries\\PedidoQueries.cs",
   "PreviewInSolutionExplorer": false
 }
