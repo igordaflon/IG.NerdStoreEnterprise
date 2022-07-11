@@ -14,7 +14,7 @@ namespace NSE.Carrinho.API.Configuration
                 c.SwaggerDoc("v1", new OpenApiInfo()
                 {
                     Title = "NerdStore Enterprise Carrinho API",
-                    Description = "Esta API faz parte do curso ASP.NET Core Enterprise Applications.",
+                    Description = "Api de manipulação de carrinho dos usuários",
                     Contact = new OpenApiContact() { Name = "Igor Daflon do Couto", Email = "igordafloncouto@gmail.com" },
                     License = new OpenApiLicense() { Name = "MIT", Url = new Uri("https://opensource.org/licenses/MIT") }
                 });
